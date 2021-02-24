@@ -1,7 +1,7 @@
 *This page is available as an executable or viewable **Jupyter Notebook**:* 
-<a href="https://colab.research.google.com/github/Suraj-Patro/Fraud_Detection/blob/main/Fraud_Detection.ipynb" target="_parent"><img align="centre" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-<a href="https://nbviewer.jupyter.org/github/Suraj-Patro/Fraud_Detection/blob/main/Fraud_Detection.ipynb" target="_parent"><img align="centre" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20"></a>
-<a href="https://mybinder.org/v2/gh/Suraj-Patro/Fraud_Detection/main?filepath=Fraud_Detection.ipynb" target="_parent"><img align="centre" src="https://mybinder.org/badge_logo.svg"></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](href="https://colab.research.google.com/github/Suraj-Patro/Fraud_Detection/blob/main/Fraud_Detection.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Suraj-Patro/Fraud_Detection/blob/main/Fraud_Detection.ipynb)
+[![mybinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Suraj-Patro/Fraud_Detection/main?filepath=Fraud_Detection.ipynb)
 
 # **Fraud Detection**
 
